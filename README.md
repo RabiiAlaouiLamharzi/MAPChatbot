@@ -1,6 +1,8 @@
 # MAPChatbot (Vue 3, HTML/CSS, JavaScript, Bootstrap, Python, Flask)
 
-![MAPlogo](https://github.com/RabiiAlaouiLamharzi/MAPChatbot/assets/103124512/28a1785d-47b7-415d-a2f4-fa6e25678c7e)
+<p align="center">
+  <img src="https://github.com/RabiiAlaouiLamharzi/MAPChatbot/assets/103124512/28a1785d-47b7-415d-a2f4-fa6e25678c7e" alt="MAPlogo" width="350">
+</p>
 
 During my two-month internship at the Department of Information Systems (DSI) of Maghreb Arab Press (MAP), I spearheaded a project to optimize GPT-3.5 using specific organization-related data sourced from online platforms and annual reports. 
 
